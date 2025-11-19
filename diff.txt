@@ -1,0 +1,9 @@
+diff --git a/log.txt b/log.txt
+index 4932b91..26ae509 100644
+--- a/log.txt
++++ b/log.txt
+@@ -1,2 +1,3 @@
+ зачет
+ не зачет
++зачет
+
